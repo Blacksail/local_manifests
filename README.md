@@ -1,1 +1,1 @@
-#Manifest for Y6
+#Manifest for a32e
